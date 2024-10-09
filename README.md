@@ -4,6 +4,7 @@
 
 ### Backend
 ```
+cd backend
 make install
 make run
 ```
@@ -40,6 +41,7 @@ Query params: entity (optional)
 
 ### Frontend
 ```
+cd frontend
 npm install
 npm run dev
 ```
